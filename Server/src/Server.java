@@ -1,5 +1,3 @@
-//Dimitrios Makris, 3212019119
-
 import java.io.*;
 import java.net.*;
 import java.util.logging.Level;
