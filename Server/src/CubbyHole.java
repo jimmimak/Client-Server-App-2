@@ -1,5 +1,3 @@
-//Dimitrios Makris, 3212019119
-
 import java.util.ArrayList;
 
 public class CubbyHole {
